@@ -1,7 +1,8 @@
 
 # AckNetwork机场官方地址(2026年8月8日更新)
 AckNetwork机场官网地址</br>
-官方地址：[acknet.co](https://portal.acknet.co/register?code=PC0U3XO8)</br>
+最新地址：[acknet.co](https://to.iix.im/ack01)</br>
+官方地址：[acknet.co](https://to.iix.im/ack01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
@@ -10,9 +11,11 @@ AckNetwork机场官网地址</br>
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 
 ## 邀请码
+`此邀请注册，可得1G试用套餐（此活动官方随时取消）`
 ```bash
 PC0U3XO8
 ```
+![image](?raw=true)</br>
 ## 折扣码/优惠码
 `享受全场8折优惠，有效期至7月31日`
 ```bash
