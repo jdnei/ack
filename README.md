@@ -15,7 +15,7 @@ AckNetwork机场官网地址</br>
 ```bash
 PC0U3XO8
 ```
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/ack/blob/main/ack/20260810-110833.jpg?raw=true)</br>
 ## 折扣码/优惠码
 `享受全场8折优惠，有效期至7月31日`
 ```bash
