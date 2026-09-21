@@ -17,9 +17,12 @@ PC0U3XO8
 ```
 ![image](https://github.com/jdnei/ack/blob/main/ack/20260810-110833.jpg?raw=true)</br>
 ## 折扣码/优惠码
-`享受全场8折优惠，有效期至7月31日`
+`周期8.5折，按量9折，有效期至10月10日`
 ```bash
-ACK20
+ACKCM85
+```
+```bash
+ACKCN90
 ```
 ## 简介
 AckNetwork机场是一款专注于稳定连接与高速访问的VPN服务，通过优化网络线路与节点调度，为用户提供流畅、便捷的跨平台网络体验。
