@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# AckNetwork VPN Official Website (Updated November 7, 2026)
+# AckNetwork VPN Official Website (Updated November 8, 2026)
 
 Official AckNetwork VPN Website<br>
 Latest URL: [acknet.co](https://to.iix.im/ack01)<br>
