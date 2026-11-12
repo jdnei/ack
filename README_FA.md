@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی AckNetwork VPN(به‌روزرسانی 11 نوامبر 2026)
+# وب‌سایت رسمی AckNetwork VPN(به‌روزرسانی 12 نوامبر 2026)
 وب‌سایت رسمی AckNetwork VPN<br>
 آخرین آدرس: [acknet.co](https://to.iix.im/ack01)<br>
 آدرس رسمی: [acknet.co](https://to.iix.im/ack01)<br>
